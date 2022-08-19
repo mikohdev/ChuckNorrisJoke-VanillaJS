@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: beige;
+}
+
+.joke-container {
+    padding: 25px;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.2);
+    background-color: whitesmoke;
+    color: #333;
+    border-radius: 8px;
+    max-width: 1300px;
+}
+
+p {
+    margin: 0;
+}
